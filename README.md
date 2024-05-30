@@ -1,5 +1,5 @@
 # -----------CVZ-Cubes-v-s-Zombies-----------
-CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C and the SDL2 library. Test your skills with a working menu system, a full-fledged health system, shooting with ammo count, random loot drops, a variety of enemies, and an area unlock system. Dive into this action-packed survival challenge!
+CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C and the SDL2 library. Test your skills with a working menu system, a full-fledged health system, shooting with ammo count, random loot drops, a variety of enemies, and an area unlock system. Dive into this action-packed survival challenge! I built this as a Major Project in my introduction to computer-science course (ICS-1010) in IIT Jodhpur.
 
 # -----------REQUIREMENTS-----------
 
@@ -11,7 +11,7 @@ CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C 
 
 ## Use this command to compile and create an executable of this program: 
 
-###gcc main.c -o game -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
+### gcc main.c -o game -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
 
 # -----------FIX-----------
 
