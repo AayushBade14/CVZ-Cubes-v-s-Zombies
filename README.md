@@ -9,7 +9,9 @@ CVZ: Cube vs Zombies is an interactive shooting game built from scratch using C 
 
 # -----------RUNNING_THE_GAME-----------
 
-## Use this command to compile and create an executable of this program: gcc main.c -o game -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
+## Use this command to compile and create an executable of this program: 
+
+###gcc main.c -o game -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
 
 # -----------FIX-----------
 
